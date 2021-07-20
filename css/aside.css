@@ -1,0 +1,41 @@
+.aside {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    padding-bottom: 10px;
+}
+
+.aside-autor {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-right: 40px;
+}
+.aside-viewed {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-right: 50px;
+}
+
+.name {
+    padding-right: 10px;
+}
+
+.aside-img {
+    width: 22px;
+    height: 16.5px;
+}
+
+.aside-num {
+    margin-left: 10px;
+}
+
+.btn-read {
+    padding: 7px 27px 8px 26px; 
+    margin-right: 38px;
+    font-size: 14px;
+    
+    border-radius: 6px;     
+}

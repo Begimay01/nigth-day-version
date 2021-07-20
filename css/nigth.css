@@ -1,0 +1,27 @@
+.page-dark {
+    background: #676565;
+    color: white;
+}
+
+.title-dark {
+    background: #767272;
+}
+
+.card-dark {
+    background: #2B2626;
+}
+.aside-dark {
+     background: #2B2626;
+}
+.logo-node-dark {
+    background: #767272;
+}
+.btn-version-dark {
+    background: #676565;
+    color: white;
+
+}
+.btn-read-dark {
+    background: #767272;
+    color: white;
+}
